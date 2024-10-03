@@ -1,0 +1,15 @@
+.caixa{
+    background-color: blue;
+    width: 9.5rem;
+    height: 5rem;
+    margin: 9.5rem;
+}
+.a{
+    background-color: blueviolet;
+}
+
+.mesa{
+    height: 30rem;
+    width: 30rem;
+    background-color: rgb(194, 194, 194);
+}

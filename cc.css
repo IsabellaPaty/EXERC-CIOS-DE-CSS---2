@@ -1,0 +1,14 @@
+.mesa{
+    width: 9%;
+    height: 10%;
+    padding: 5%;
+    background-color: blue;
+    margin: 2%;
+}
+
+.caixa{
+    width: 50%;
+    height: 12%;
+    background-color: aquamarine;
+    margin: 3%;
+}
